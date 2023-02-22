@@ -1,6 +1,5 @@
 ### Olá meu nome é Luis Felipe, Desenvolvedor.
 
-[![Github](https://img.shields.io/github/followers/LuisFelipeMTCS?label=Follow&style=social)](https://github.com/LuisFelipeMTCS)
 
 
 
@@ -18,6 +17,7 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luis-felipe-maio-toledo-de-carvalho-e-silva-a85b671a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+  ![Snake animation](https://github.com/LuisFelipeMTCS/LuisFelipeMTCS/blob/output/github-contribution-grid-snake.svg)
 
 
 
