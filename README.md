@@ -1,6 +1,6 @@
 
 
-![Banner para Loja de Roupas Frete Grátis Minimalista Cinza e Branco](https://user-images.githubusercontent.com/107282388/220689838-50e8346b-f9cf-4d61-b46b-e1c9b32c3a7a.png)
+<img src="https://user-images.githubusercontent.com/107282388/220689838-50e8346b-f9cf-4d61-b46b-e1c9b32c3a7a.png" width="800"/>
 
 <div>
 <a href="https://github.com/LuisFelipeMTCS">
