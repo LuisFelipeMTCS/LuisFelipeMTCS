@@ -19,7 +19,7 @@
 ![C](https://img.shields.io/badge/-212338?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![ADVPL](https://img.shields.io/badge/ADVPL-212338.svg?style=for-the-badge&logo=ADVPL&logoColor=white)&nbsp;
 
-#### FRAMEWORKS:
+#### Frameworks:
 
 ![DJNAGO](https://img.shields.io/badge/Django-212338?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
 ![FLASK](https://img.shields.io/badge/Flask-212338?style=for-the-badge&logo=Flask&logoColor=white)&nbsp;
