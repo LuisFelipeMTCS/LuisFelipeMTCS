@@ -6,6 +6,8 @@
 
 </div>
 
+## Connect with me:
+
 <p align = "center">
 
 
@@ -13,6 +15,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/luis-felipe-maio-toledo-de-carvalho-e-silva-a85b671a4/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_luis_felipe1/)
 </p>
+
 
   
 
