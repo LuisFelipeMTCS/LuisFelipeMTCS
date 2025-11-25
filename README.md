@@ -1,51 +1,116 @@
+# Luis Felipe Maio Toledo de Carvalho e Silva
 
-<div>
+**Tech Lead Data Engineer** | Web Scraping & Crawler Specialist | ETL/ELT Architecture
 
-[<img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/luis-felipe-maio-toledo-de-carvalho-e-silva-a85b671a4/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_luis_felipe1/)
-[<img src="https://img.shields.io/badge/Phone-%231DA1F2.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white&color=black" />](https://wa.me/5562982650556) 
-<img src="https://user-images.githubusercontent.com/107282388/220689838-50e8346b-f9cf-4d61-b46b-e1c9b32c3a7a.png"   />
-</div>
+---
 
+## Professional Summary
 
+Data Engineer with extensive experience in building high-performance web crawlers, data automation systems, and scalable data pipelines. Currently leading the Data Engineering team at Data Cube, managing 150+ concurrent APIs with a focus on reliability, performance, and fault tolerance.
 
+**Location:** Anápolis, GO - Brazil  
+**Email:** luisxfelipexluis@gmail.com  
+**LinkedIn:** [linkedin.com/in/lfmtcs](https://www.linkedin.com/in/lfmtcs)
 
-  ## Skills:
-#### Languages:
+---
 
-![Java](https://img.shields.io/badge/Java-212338?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-212338?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-212338?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![ADVPL](https://img.shields.io/badge/ADVPL-212338.svg?style=for-the-badge&logo=ADVPL&logoColor=white)&nbsp;
+## Technical Expertise
 
-#### Frameworks:
+### Core Competencies
+- **Data Engineering:** ETL/ELT pipeline development, real-time and batch processing, data warehouse architecture
+- **Web Scraping:** High-performance crawlers, anti-detection strategies, concurrent API management
+- **Cloud Infrastructure:** AWS (EC2, S3, Lambda, RDS), Google Cloud Platform, Azure
+- **Leadership:** Technical team leadership, architecture design, mentoring, agile methodologies
 
-![DJNAGO](https://img.shields.io/badge/Django-212338?style=for-the-badge&logo=Django&logoColor=white)&nbsp;
-![FLASK](https://img.shields.io/badge/Flask-212338?style=for-the-badge&logo=Flask&logoColor=white)&nbsp;
+### Technology Stack
 
+**Languages:** Python, Java, Scala, PHP, Shell Script, SQL, C  
+**Data Processing:** Apache Spark, Hadoop, Airflow, Pandas, PySpark  
+**Databases:** PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Redis  
+**Infrastructure:** Docker, Linux, Git, CI/CD, Terraform  
+**Frameworks:** Flask, FastAPI, Scrapy, BeautifulSoup, Selenium
 
-#### Database
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-212338?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-212338?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![OracleSQL](https://img.shields.io/badge/ORACLE-212338?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![SqlServer](https://img.shields.io/badge/SqlServer-212338?style=for-the-badge&logo=SqlServer&logoColor=white)&nbsp;
+## Professional Experience
 
+### Data Cube | Tech Lead Data Engineer
+*January 2025 - Present*
 
-#### Tools and Technologies
+- Leading technical team in data engineering initiatives, defining architecture standards and best practices
+- Developing and maintaining high-performance crawlers processing millions of records daily
+- Managing 150+ concurrent APIs with 99.9% uptime through resilient asynchronous pipelines
+- Achieved 35% improvement in API stability through implementation of self-healing systems
+- Mentoring team members in Python, clean code practices, and agile methodologies
 
-![Linux](https://img.shields.io/badge/Linux-212338?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-212338?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-212338?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+### Data Cube | Data Engineer
+*May 2023 - January 2025*
 
+- Developed Python-based automation systems reducing manual processing time by 60%
+- Built robust Web Scraping and Data Mining pipelines for large-scale data extraction
+- Implemented fault-tolerant ETL routines integrating multiple data sources
+- Optimized existing scripts improving processing performance by 40%
 
+### Linea Alimentos | Data Engineer
+*May 2022 - May 2023*
 
+- Developed ADVPL routines for Protheus ERP platform
+- Created RPA solutions using Python for process automation
+- Built REST API integrations with external systems
+- Developed Power BI dashboards for business intelligence
 
+---
 
+## Key Achievements
 
+- **Performance Optimization:** Increased API stability by 35% through resilient asynchronous pipeline architecture
+- **Scale Management:** Successfully managing 150+ APIs simultaneously with automated monitoring and self-healing routines
+- **Team Leadership:** Leading and mentoring a team of data engineers, establishing best practices and coding standards
+- **Cost Reduction:** Implemented optimization strategies reducing cloud infrastructure costs by 25%
 
+---
 
+## Education
 
+**Bachelor's in Information Systems**  
+Universidade Estadual de Goiás (UEG) | 2020 - 2024
 
+**Data Science Program**  
+FIAP | 2024 - 2026
 
+---
+
+## Projects & Repositories
+
+### data-engineering-toolkit
+Comprehensive toolkit for data engineering tasks including ETL pipelines, data quality checks, and automation scripts. Built with Python, Apache Spark, and Airflow.
+
+### web-scraping-framework
+Production-ready web scraping framework with anti-detection mechanisms, distributed crawling capabilities, and fault tolerance. Handles 100+ concurrent requests with retry logic and rate limiting.
+
+### api-orchestrator
+Robust API management system designed to handle multiple APIs concurrently with automatic failover, monitoring, and alerting capabilities.
+
+### etl-pipeline-templates
+Collection of production-tested ETL pipeline templates for various data sources and destinations, including cloud platforms (AWS, GCP, Azure).
+
+---
+
+## Technical Skills Assessment
+
+**Expert Level:** Python, Web Scraping, ETL/ELT, SQL, Data Pipeline Architecture  
+**Advanced:** AWS, Docker, Linux, API Development, Apache Spark  
+**Proficient:** Java, Scala, Hadoop, Machine Learning (basics), CI/CD  
+**Familiar:** Kubernetes, Terraform, Apache Kafka, ElasticSearch
+
+---
+
+## Contact
+
+For professional inquiries or collaboration opportunities, please reach out via:
+- Email: luisxfelipexluis@gmail.com
+- LinkedIn: [linkedin.com/in/lfmtcs](https://www.linkedin.com/in/lfmtcs)
+
+---
+
+*Last updated: November 2024*
